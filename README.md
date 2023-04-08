@@ -50,6 +50,10 @@ runs on hashlink, requires
 ## media reading and writing 
 * format
 
+## threading
+* sys.threads
+* haxe-concurrent - not recommended for games
+
 
 
 

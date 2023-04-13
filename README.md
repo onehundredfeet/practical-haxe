@@ -4,6 +4,7 @@ After a year of working with haxe, here's a few things i wish i'd known at the s
 
 # Targets
 * hashlink - rapid iteration, excellent support, reasonable performance
+  * Profiling - https://github.com/HaxeFoundation/hashlink/wiki/Profiler
 * hxcpp - slower iteration, reasonable support, excellent performance
 * jvm - fast iteration, developing support, strong performance (some memory bloat)
 * js - tbd

@@ -25,6 +25,7 @@ https://benchs.haxe.org
   + Haxelib has lots of libraries, however, many of them are out of date
   + Haxelib is natively integrated into the Haxe compiler, which makes it the default package manager
   + Many modern Haxe libs are only distributed through git, and often require you to keep dependencies up to date
++ haxe vs 
 
 # Recommended Libraries
 There are lots of long lists of libs, but i'm going to try to recommend only one, at most two for a given category.

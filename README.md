@@ -32,14 +32,14 @@ There are lots of long lists of libs, but i'm going to try to recommend only one
 ## Macros
 * tink macro - when used properly, makes macros easier to write.
 
-## async
+## Async
 * pecan
 
-## native extension shims
+## Native Extension Shims
 * ammer - Supports good subset of targets, the defacto default
 * h-idl [RC] - An alternative primarily supporting Hashlink with a lot of features for additional perf, some assembly required
 
-## logging
+## Logging
 * hlog [RC] - A very lightweight trace-like logging suite
 
 ## Game Engine

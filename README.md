@@ -44,20 +44,16 @@ There are lots of long lists of libs, but i'm going to try to recommend only one
 
 ## Game Engine
 ### Heaps
-Runs on Hashlink
-* heaps.io
-  * [Github](https://github.com/HeapsIO/heaps) 
-* hide - extends heaps with an editor
+Runs on Hashlink & JS
+* heaps.io [Github](https://github.com/HeapsIO/heaps) 
+* hide - extends heaps with an editor [Github](https://github.com/HeapsIO/hide)
   * Requires you to keep heaps and hashlink up to date through git
-  * [Github](https://github.com/HeapsIO/hide)
 
-### Flixel
+### Flixel [Github](https://github.com/HaxeFlixel/flixel)
 * I do NOT use this, but lots of people do, so investigate on your own
- * [Github](https://github.com/HaxeFlixel/flixel)
 
 ## Game Serialization / Networking
-* hxbit - macro based serialization
- * [Github](https://github.com/HeapsIO/hxbit)
+* hxbit - macro based serialization [Github](https://github.com/HeapsIO/hxbit)
 
 ## Game Database
 * CastleDB

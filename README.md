@@ -79,10 +79,16 @@ Runs on Hashlink & JS
 ## Random numbers
 * seedyrng
 
+## Tool / App UI
+* Haxe-ui [Github](https://github.com/haxeui)
+ * Top notch, excellent for tools and apps
+
+## Game UI
+* Heaps + Domkit [Github](https://github.com/HeapsIO/domkit)
+
 # Community
 The Haxe discord is the most active place I've been able to find.
 
-# Tool / App UI
 
 
 

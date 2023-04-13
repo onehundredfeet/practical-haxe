@@ -8,6 +8,10 @@ After a year of working with haxe, here's a few things i wish i'd known at the s
 * jvm - fast iteration, developing support, strong performance (some memory bloat)
 * js - tbd
 
+## Target Benchmarks
+https://benchs.haxe.org
+
+
 # Workflow
 + vscode + code completion
   + A really solid combination, and my recommended workflow

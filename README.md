@@ -13,16 +13,17 @@ https://benchs.haxe.org
 
 
 # Workflow
-+ vscode + code completion
++ VS Code + Code Completion
+  + Install the Haxe extension from the marketplace  
   + A really solid combination, and my recommended workflow
   + You often have to restart the code completion with large projects (Use the command pallete)
-+ compilation server
++ Compilation server
+  + Use this to massively speed up iterative compilations
   + you can find the instructions here: https://haxe.org/manual/cr-completion-server.html
 + haxelib vs git
   + Haxelib has lots of libraries, however, many of them are out of date
   + Haxelib is natively integrated into the Haxe compiler, which makes it the default package manager
   + Many modern Haxe libs are only distributed through git, and often require you to keep dependencies up to date
-
 
 # Recommended Libraries
 There are lots of long lists of libs, but i'm going to try to recommend only one, at most two for a given category.
@@ -35,7 +36,7 @@ There are lots of long lists of libs, but i'm going to try to recommend only one
 
 ## native extension shims
 * ammer - Supports good subset of targets, the defacto default
-* h-idl [RC] - An alternative primarily supporting Hashlink with a lot of features for additional perf
+* h-idl [RC] - An alternative primarily supporting Hashlink with a lot of features for additional perf, some assembly required
 
 ## logging
 * hlog [RC] - A very lightweight trace-like logging suite

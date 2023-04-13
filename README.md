@@ -52,6 +52,9 @@ Runs on Hashlink
 ## Game Serialization / Networking
 * hxbit - macro based serialization
 
+## Game Database
+* CastleDB
+
 ## ECS
 * hmecs [RC] - Plug for my own fork of echoes, a macro based ECS
 
@@ -66,6 +69,12 @@ Runs on Hashlink
 
 ## Threading
 * sys.threads - Built in for any sys supporting target.  Faster than haxe-concurrent
+
+## 3D Math
+* hvector
+
+## Random numbers
+* seedyrng
 
 
 

@@ -36,28 +36,34 @@ There are lots of long lists of libs, but i'm going to try to recommend only one
 ## logging
 * hlog [RC] - A very lightweight trace-like logging suite
 
-## game engine
+## Game Engine
 ### Heaps
 Runs on Hashlink
 * heaps.io
 * hide - extends heaps with an editor
   * Requires you to keep heaps and hashlink up to date through git
 
-## game serialization / networking
+## Game Serialization / Networking
 * hxbit - macro based serialization
 
-## bit packing
+## ECS
+* hmecs [RC] - Plug for my own fork of echoes, a macro based ECS
+
+## Bit Packing
 * hbitsignals [rc] provides a simple franework for writing very dense bit streams
 
-## unit testing
+## Unit Testing
 * buddy
 
-## media reading and writing 
+## Media Reading and writing 
 * format
 
-## threading
-* sys.threads
-* haxe-concurrent - not recommended for games
+## Threading
+* sys.threads - Built in for any sys supporting target.  Faster than haxe-concurrent
+
+
+
+
 
 
 

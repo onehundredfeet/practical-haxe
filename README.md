@@ -49,6 +49,9 @@ Runs on Hashlink
 * hide - extends heaps with an editor
   * Requires you to keep heaps and hashlink up to date through git
 
+### OpenFL
+* I do NOT use this, but lots of people do, so investigate on your own
+
 ## Game Serialization / Networking
 * hxbit - macro based serialization
 
@@ -76,7 +79,8 @@ Runs on Hashlink
 ## Random numbers
 * seedyrng
 
-
+# Community
+The Haxe discord is the most active place I've been able to find.
 
 
 

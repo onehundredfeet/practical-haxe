@@ -46,14 +46,18 @@ There are lots of long lists of libs, but i'm going to try to recommend only one
 ### Heaps
 Runs on Hashlink
 * heaps.io
+  * https://github.com/HeapsIO/heaps 
 * hide - extends heaps with an editor
   * Requires you to keep heaps and hashlink up to date through git
+  * https://github.com/HeapsIO/hide
 
-### OpenFL
+### Flixel
 * I do NOT use this, but lots of people do, so investigate on your own
+* https://github.com/HaxeFlixel/flixel
 
 ## Game Serialization / Networking
 * hxbit - macro based serialization
+ * https://github.com/HeapsIO/hxbit
 
 ## Game Database
 * CastleDB
@@ -82,6 +86,7 @@ Runs on Hashlink
 # Community
 The Haxe discord is the most active place I've been able to find.
 
+# Tool / App UI
 
 
 

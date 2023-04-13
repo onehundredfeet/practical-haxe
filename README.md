@@ -84,7 +84,7 @@ Runs on Hashlink & JS
  * Top notch, excellent for tools and apps
 
 ## Game UI
-* Heaps + Domkit [Github](https://github.com/HeapsIO/domkit)
+  * Heaps + Domkit [Github](https://github.com/HeapsIO/domkit)
 
 # Community
 The Haxe discord is the most active place I've been able to find.

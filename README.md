@@ -15,6 +15,9 @@ After a year of working with haxe, here's a few things i wish i'd known at the s
 + compilation server
   + you can find the instructions here: https://haxe.org/manual/cr-completion-server.html
 + haxelib vs git
+  + Haxelib has lots of libraries, however, many of them are out of date
+  + Haxelib is natively integrated into the Haxe compiler, which makes it the default package manager
+  + Many modern Haxe libs are only distributed through git, and often require you to keep dependencies up to date
 
 
 # Recommended Libraries
@@ -35,9 +38,10 @@ There are lots of long lists of libs, but i'm going to try to recommend only one
 
 ## game engine
 ### Heaps
-runs on Hashlink, requires 
+Runs on Hashlink
 * heaps.io
 * hide - extends heaps with an editor
+  * Requires you to keep heaps and hashlink up to date through git
 
 ## game serialization / networking
 * hxbit - macro based serialization

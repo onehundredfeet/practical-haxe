@@ -10,7 +10,10 @@ After a year of working with haxe, here's a few things i wish i'd known at the s
 
 # workflow
 + vscode + code completion
+++ A really solid combination, and my recommended workflow
+++ You often have to restart the code completion with large projects (Use the command pallete)
 + compilation server
+++ you can find the instructions here: 
 + haxelib vs git
 
 

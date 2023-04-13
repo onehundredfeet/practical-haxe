@@ -4,7 +4,7 @@ After a year of working with haxe, here's a few things i wish i'd known at the s
 
 # Targets
 * hashlink - rapid iteration, excellent support, reasonable performance
-  * Profiling - https://github.com/HaxeFoundation/hashlink/wiki/Profiler
+  * Profiling - [Instructions](https://github.com/HaxeFoundation/hashlink/wiki/Profiler)
 * hxcpp - slower iteration, reasonable support, excellent performance
 * jvm - fast iteration, developing support, strong performance (some memory bloat)
 * js - tbd
@@ -46,18 +46,18 @@ There are lots of long lists of libs, but i'm going to try to recommend only one
 ### Heaps
 Runs on Hashlink
 * heaps.io
-  * https://github.com/HeapsIO/heaps 
+  * [Github](https://github.com/HeapsIO/heaps) 
 * hide - extends heaps with an editor
   * Requires you to keep heaps and hashlink up to date through git
-  * https://github.com/HeapsIO/hide
+  * [Github](https://github.com/HeapsIO/hide)
 
 ### Flixel
 * I do NOT use this, but lots of people do, so investigate on your own
-* https://github.com/HaxeFlixel/flixel
+ * [Github](https://github.com/HaxeFlixel/flixel)
 
 ## Game Serialization / Networking
 * hxbit - macro based serialization
- * https://github.com/HeapsIO/hxbit
+ * [Github](https://github.com/HeapsIO/hxbit)
 
 ## Game Database
 * CastleDB
